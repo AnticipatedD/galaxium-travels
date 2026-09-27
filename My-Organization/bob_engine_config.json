@@ -1,0 +1,24 @@
+{
+  "engine": {
+    "name": "IBM-Bob-Custom-SaaS",
+    "version": "2.0-UAT",
+    "deployment_region": "us-east",
+    "organization": "ibm-coding-challenge-uat (us-east)",
+    "competition_context": "ibm-hackathon-lablab"
+  },
+  "allocations": {
+    "initial_balance": 40,
+    "allocated_spend": 40,
+    "remaining_balance": 0,
+    "spend_profile": {
+      "mcp_agent_tools": 15,
+      "fastapi_backend_routing": 15,
+      "java_hold_service_scheduler": 10
+    }
+  },
+  "status": {
+    "workspace_initialized": true,
+    "active_token_footprint": 41,
+    "refresh_interval_minutes": 60
+  }
+}
