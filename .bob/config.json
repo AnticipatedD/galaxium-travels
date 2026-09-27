@@ -1,0 +1,23 @@
+{
+  "bob_shell": {
+    "session_mode": "non-interactive",
+    "auto_approve_permissions": {
+      "read": true,
+      "write": true,
+      "execute": true,
+      "mcp": true,
+      "subagent": true
+    },
+    "custom_rules": {
+      "document_code": true,
+      "remember_actions": true
+    }
+  },
+  "account_binding": {
+    "instance_name": "ibm-coding-challenge-uat",
+    "deployment_region": "us-east",
+    "billing_wallet": "Bobcoins",
+    "allocated_coins": 40,
+    "current_usage_multiplier": "Inference"
+  }
+}
