@@ -1,0 +1,12 @@
+{
+  "authentication": {
+    "provider": "://ibm.com",
+    "api_key_status": "ACTIVE",
+    "environment": "ibm-coding-challenge-uat (us-east)",
+    "assigned_scope": "ibm-hackathon-lablab"
+  },
+  "ledger_update": {
+    "initial_tokens_linked": true,
+    "wallet_deductions_authorized": 40
+  }
+}
