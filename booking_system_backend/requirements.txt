@@ -9,4 +9,4 @@ pytest
 pytest-asyncio
 pytest-cov
 httpx
-psycopg2-binary
+# psycopg2-binary
